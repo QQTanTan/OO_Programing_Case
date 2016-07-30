@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1469453690 source:g:\cbworkspace\calender\main.cpp
+	"calendar.h"
+	<iostream>
+
+1469453232 g:\cbworkspace\calender\calendar.h
+
+1469453672 source:g:\cbworkspace\calender\function.cpp
+	<stdio.h>
+	<ctime>
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"calendar.h"
+
