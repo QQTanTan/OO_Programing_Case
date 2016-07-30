@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1469364347 source:g:\cbworkspace\student_score\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<string.h>
+	<algorithm>
+
